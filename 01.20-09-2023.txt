@@ -1,0 +1,35 @@
+1.Basic Built and connection with server
+    There will be:
+        Developers: Who develops the server.
+        Build and deployment: After designing,the built will be done and then after testing deployment will be done.
+        Server: Which gives access to the clients.
+        Database: The server responds to the client's request by getting the datum from database.
+        User: Who acts as a client to get information from server.
+        Load balancer: If one server fails then it gives access to the other server.
+        Log: Which stores the data in the middle.
+        Metric: Which evaluates the users.
+        Sample apps: Redbus, Flipkart, Amazon etc...
+
+2.DNS
+    Which gives the IP address for the given name, if we have the IP address, we can directly access the server.
+
+3.TCP(Transmission Control Protocol)
+    In this client will send the synchronization message to the server and server sends the acknowledge message to the client.If the date missed anywhere the process will be stoped.
+
+4.UDP(User Datagram Protocol)
+    In the server won't mind to send the acknowledge message it sends the message wisely.
+
+5.API(Application Progamming Interface)
+    1.Rest
+        1.Get
+        2.Post
+        3.Put
+        4.Delete
+    2.Graphical
+    3.GRPC
+
+6.Packets
+    The message from client to server and vice versa will be send as Packets
+
+7.Git vs Github
+    Git is a version controller and Github contains repositories to store the datum.
