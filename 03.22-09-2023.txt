@@ -1,1 +1,3 @@
-Today i did a website of CurryBox and published in Github.
+Today i did a website of CurryBox and published in Github. We have used a tags which we learnt yesterday.
+I have used the tags like:
+Margin: Which is used for placing the elements and used some more tags for styling the page.
