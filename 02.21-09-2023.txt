@@ -1,0 +1,23 @@
+1.Colspan:
+    It will span the column
+
+2.Rowspan:
+    It will span the Row
+
+3.Relative selectors
+    For example:If div>p then the style will be applied to every paragraph in the division
+
+4.:: vs :
+    :: refers to pseudo elements and : refers to pseudo selectors
+
+5.Display flex:
+    By default it will take the row to flex and if we need we can apply it for column
+
+6.Align items:
+    Will align the items in the flex box
+
+7.Align flex:
+    It alligns the value of the items in the flex
+
+8.Justify content:
+    it justifies the content in the flex
