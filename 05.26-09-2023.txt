@@ -1,0 +1,4 @@
+Completed the food restaurant site.
+Did a small bootstrap page.
+Learnt some javascript keywords.
+Did a assignment with js like within a single array created 3 objects with fields and concatinated the name and array using map and reduce
