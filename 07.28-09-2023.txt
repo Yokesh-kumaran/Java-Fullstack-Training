@@ -1,0 +1,9 @@
+1st half:
+    Javascript:
+        Got 2 inputs from users
+        Performed add operation
+        Displayed the output
+
+2nd half:
+    Javascript:
+        Learnt how to build a E-commerce application using Html, Css, Bootstrap with navigation to other page.
