@@ -1,0 +1,9 @@
+E-Commerce application
+    Added some more functionalites in the application like,
+    Add product - Done with the js code for add product by admin.
+    Edit product - Done with the js code for Edit product by admin.The admin can edit the Product's name, thumbnail(plays with URL), price, description.
+    Admin orders - The orders done by users will be in pending state initially and the admin can be able to change it to states like(Order booked, cancelled, delivered).
+    User cart - After clicking on add to cart in user index, the items will be added to cart with the product's(image, description, quantity, prize) and total prize in the bottom.
+    User orders - After clicking on check out button in the cart page the orders will come to the orders page with the status(pending).
+
+    Finally published in Github and hosted the application.
