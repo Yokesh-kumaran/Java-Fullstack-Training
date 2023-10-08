@@ -1,0 +1,7 @@
+Done with the separate cart page which we have done in the E-commerce application.
+The features added is,
+    The drawback in the previous cart page is,
+        We can click the add to cart button multiple times for increasing the quantity of product and we can delete the product from cart.
+        But, we cannot able to decrease the quantity
+        This time we have done that with two button left and right to the quantity(+ and -) which will handle with the increasing and decreasing of count.
+        After decreasing, when the count hits zero, automatically add to cart button visible again.
