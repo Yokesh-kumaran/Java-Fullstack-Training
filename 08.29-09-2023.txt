@@ -1,0 +1,10 @@
+Javascript:
+    Performed a logical operations for javascript e-commerce application
+    the application should consist of:
+        login page
+        sign up page
+        user index
+        admin index
+        user cart
+        user orders
+        admin orders
