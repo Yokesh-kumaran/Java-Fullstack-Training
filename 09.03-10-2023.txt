@@ -1,0 +1,8 @@
+E-commerce application
+    Using javascript, developed a half e-commerce application with the name("Loop").
+    Completed the UI and in javascript completed till,
+    login page - After entering the login credentials, admin or user can login.
+    SignUp Page - For new users who wants to access the application.
+    Logout - After accessing the users can logout from the application.
+    Admin index - The available products will be visible in this page and the admin can be able to edit the product name and delete the product and add new product
+    User index - The user can be able to see the products and add to cart.
