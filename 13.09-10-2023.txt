@@ -1,0 +1,3 @@
+Done with the Form validation using JQuery.
+Learnt the Typescript setup and install using the npm(Node Package Manager) in Node.
+Started to build a ToDo application using Typescript.
