@@ -1,0 +1,13 @@
+TYPESCRIPT:
+Interface:
+    If both the interface with the same name, it will compile both.
+
+Type:
+    If same scenario, then it will throw error.
+
+Object:string:
+AFter defining the object as string and if we are pushing the number to the object, it shows error in vs code but in console it will print
+    Reason: while pascel builder ts will convert to js, so it will accept.
+
+Created the attendance page where the student will be able to put attendance for the particular day and the teacher can 
+be able to see it and add a new student and edit and delete the student
