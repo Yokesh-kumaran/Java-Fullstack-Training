@@ -3,4 +3,4 @@ For Angular- Web pack bundler
 Pages which do not reload - SPA(Single page Application)
 ng serve-run in development mode
 ng g(generate) c(component) (folder name)/(file name)---ng(comes from cli)(Command Line Interface)
-Did Todo Application using Angular(Render, Add, Delete)
+Did Todo Application using Angular(Render, Add, Delete).
