@@ -1,0 +1,10 @@
+After 2.00PM training starts today
+Again started to learn angular from the base
+To start with new project
+1.ng new projectfolder.
+
+2.Open the folder in angular.
+
+3.ng serve to run the Application.
+
+4.Did some modifications like(Removing css files and spec.ts files).
