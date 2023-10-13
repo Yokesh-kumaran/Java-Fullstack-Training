@@ -1,0 +1,6 @@
+Worked with edit logic in Todo Application
+In angular:
+Created components - ng g c foldername/filename
+Created Interface - ng g i foldername/filename
+Did todo Application
+Learnd about Routing module
