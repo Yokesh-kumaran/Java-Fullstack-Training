@@ -1,0 +1,5 @@
+USING ANGULAR
+1.Login validation
+2.Register validation
+3.Navigating one page to another using (Router)
+4.Practiced reactive validation by importing (ReactiveFormsModule)
