@@ -1,0 +1,5 @@
+In angular E-commerce,
+Loaded the products in Home page(Home Component),
+After clicking on ADD TO CART for the particular product,
+The Add to cart function will be called which affects the localstorage and,
+The count for the cart in the navbar gets increased.
