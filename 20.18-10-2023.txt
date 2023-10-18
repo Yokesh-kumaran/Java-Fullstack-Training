@@ -1,0 +1,6 @@
+Completed E-Commerce application in angular
+Process:
+1.Login and Register using validation(Included validation in login and register form).
+2.Add to Cart functionality(While clicking add to cart button in home page,
+  the datum will be stored with count and the count of cart in navbar gets increases).
+3.Checkout Functionality.
