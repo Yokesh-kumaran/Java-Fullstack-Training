@@ -4,3 +4,4 @@ E-Commerce application in angular:
     gets increased in cart and (- & +) button gets visible where we can increase and decrease the product count.
     This process also gets reflect in the cart page.
     Used lottieanimations to show if the cart is empty.
+    
