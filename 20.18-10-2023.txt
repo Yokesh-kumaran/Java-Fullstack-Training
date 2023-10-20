@@ -1,4 +1,4 @@
-Completed E-Commerce application in angular
+E-Commerce application in angular
 Process:
 1.Login and Register using validation(Included validation in login and register form).
 2.Add to Cart functionality(While clicking add to cart button in home page,

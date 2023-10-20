@@ -1,0 +1,18 @@
+Errors caught in java..
+1.Integer value out of range.
+2.Float value out of range.
+3.Double value out of range.
+4.Variable is already defined in the scope.
+5.char a = "a"; - required character provided string.
+6.String e1 = 'Yokesh'; - Too many characters in character literal.
+7.int x = [10]; - Not a statement(any line ends with semicolon).
+8.float f1 = 12.3; - Required float provided double.
+9.Array index is out of bounds.
+10.int[] arr1 = new arr1[]; - Cannot resolve symbol 'arr1'
+11.for(i: arr1){
+            System.out.println(i);
+        } - Not a statement
+12.System.out.println(a,b); - Cannot resolve method 'println(int, int)'
+13.System.out.println(Math.absExact(-20.87878)); - Cannot resolve method 'absExact(double)'
+
+Done simple banking application in java.
