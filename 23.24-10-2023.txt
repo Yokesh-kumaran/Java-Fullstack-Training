@@ -1,14 +1,48 @@
 Worked with core concepts in java like,
+
 *Object.
+    In java, everything is object that's why we are naming it as Object Oriented Programming Language.
+
 *Class.
+    Class is a blueprint.
+
 *Method.
+    We can create it once and can be accessed multiple times.
+
 *MethodOverloading.
+    In polymorphism, in compile time polymorphism, MethodOverloading is used where we can have multiple 
+    methods but with different parameters and return type.
+
 *Constructor.
+    Same name as class name.
+
 *Interface.
+    Interface is like a design in which we can't have implemented methods and we can also handle multiple
+    inheritance here.
+
 *Abstract.
+    Abstract can have both implemented and unimplemented methods.Hiding the implemented details.
+
 *Encapsulation.
+    Binding the date is known as Encapsulation.Here we will be using getters and setters to access and 
+    modify the contents which is in private scope.
+
 *Casting.
+    Two types of casting is,
+    1.Upcasting - Child to Parent
+    2.DownCasting - Parent to Child
+
 *Thread.
+    By extending thread in the class, we can use the methods by starting the thread object.
+
 *Date.
+    By Date class we can access the date and by using SimpleDateFormatter class we can format the date
+    by creating the object for date.
+
 *Exception handling.
+    We can handle the exception by using the,
+    1.Try
+    2.Catch block
+
 *Collection
+    We use Collection to overcome the Array, Did arrayList for today.
