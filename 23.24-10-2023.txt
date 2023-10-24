@@ -1,0 +1,14 @@
+Worked with core concepts in java like,
+*Object.
+*Class.
+*Method.
+*MethodOverloading.
+*Constructor.
+*Interface.
+*Abstract.
+*Encapsulation.
+*Casting.
+*Thread.
+*Date.
+*Exception handling.
+*Collection
