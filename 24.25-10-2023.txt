@@ -1,0 +1,44 @@
+Collections
+-----------
+    1.ArrayList
+        In arraylist i have used,
+            *Adding using Constructor.
+            *Add using setter.
+            *Set.
+            *Remove.
+            *Getting size.
+
+    2.LinkedList
+        LinkedList consumes a bit more memory than arraylist.
+
+    3.TreeSet
+        It displays the elements in ascending order which doesn't allow duplicates.
+        in set, i have practiced,
+            *Add.
+            *Size of set.
+            *Removing object.
+            *Iterator.
+            *Add all.
+
+    4.HashSet
+        It displays the elements in random order.
+
+    5.Treemap
+        The map contains the key-value pair.It displays the elements in ascending order based on key.
+
+    6.Hashmap
+        It displays the elements in random order based on key.
+
+practiced with the java task questions
+--------------------------------------
+    1.Check for pair in an array with a given sum.
+    2.Find whether an array is a subset of another array.
+    3.Finding Prime number between 1 to 100.
+    4.Find whether the given string is a palindrome.
+    5.Program to remove vowels from String.
+    6.Display Fibonacci Series.
+    7.Count occurrences of a character in String in Java.
+    8.Count occurrences of substring in a string.
+
+Learnd file handling.
+Learnd Unit testing using JUnit dependency in Maven project.
