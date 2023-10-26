@@ -1,0 +1,61 @@
+Learnd how to build the e-commerce command line application with only Java and completed the application till 
+login process.
+-------------------------------------------------------------------------------------------------------------
+
+Concepts used here:
+------------------
+*Collections
+*Exception handling
+*File handling
+*Interface
+*Thread
+*Constructor
+*Object
+*Methods
+
+Interfaces and Classes used here,
+
+Controller - Deals with the business logic
+----------
+IAppController      |
+IAuthController     |
+ICartController     |----Interface
+IHomeController     |
+IOrderController    |
+IProductController  |
+
+AppController      |
+AuthController     |
+CartController     |----Class
+HomeController     |
+OrderController    |
+ProductController  |
+
+Models - Pojo methods
+------
+Cart
+CartProduct
+Category
+Order 
+Product
+Role
+User
+
+Utils
+-----
+AppException
+AppInput
+AppScanner
+FileUtil
+StringUtil
+Utils
+
+View - Contains data needs to be print in command line
+----
+CartPage
+HomePage
+LoginPage
+OrderPage
+ProductsPage
+RegisterPage
+WelcomePage
