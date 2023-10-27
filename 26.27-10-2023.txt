@@ -1,0 +1,40 @@
+Java E-Commerce
+~~~~~~~~~~~~~~~
+
+Yesterday at day-25 completed Java E-Commerce till login page,
+Today,
+After validation done, The user will be navigated to the home page where he/she can do stuff like,
+
+In home page 5 options like,
+---------------------------
+1.Category 
+2.Products 
+3.Cart 
+4.Order 
+5.Logout
+
+1.Category
+==========
+     Once entering (1) list of all category will be shown with (num: go back).
+     After entering num, it will return back to the home page.
+     If you want items in specific category, we can enter the id of the category and purchase.
+
+2.Products
+==========
+     Once entering (2) list of all products will be shown with (num: go back).
+     After entering num, it will return back to the home page.
+     we can enter the id of the product and purchase.
+
+3.Cart
+======
+    Initially the cart will be empty, After purchasing things it got updating.
+    Will show list of products with total price and checkout menu.
+    Once entering checkout number, the cart should be empty and updated to products.
+
+4.Orders
+========
+    In orders, orders will be shown with date and orderId in a csv file.
+
+5.Logout
+========
+    After entering (5), authentication page will be loaded.
