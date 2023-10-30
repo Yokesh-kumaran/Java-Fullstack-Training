@@ -25,3 +25,29 @@ From Admin side,
         After logging out, it will be navigated to the authentication page.
 
 3.Pushed the application in github and created readme file in github.
+
+Practiced in dates without using Java 8
+---------------------------------------
+1.Adding particular days to the current date.
+    Example:
+        18/11/2001 + 10 days = 28/11/2001
+
+2.Comparing Date with String
+    Example:
+        18/11/2001 == "18/11/2001"
+
+3.Subtracting date from date
+    Example:
+        18/11/2001 - 10/11/2001 = 8 days
+
+4.Changing date format
+    Example:
+        18/11/2001 to 2001.11.18
+
+5.Comparing after changing the date format
+    Example:
+        18/11/2001 == 2001.11.18
+
+6.Adding months to the particular date and get the output
+    Example:
+        18/01/2001 + 10 months = 18/11/2001
