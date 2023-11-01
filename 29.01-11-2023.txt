@@ -1,0 +1,55 @@
+SQL
+~~~
+    DML:
+    ---
+    CREATE TABLE table_name(C1,C2);
+    INSERT INTO table_name (column1, column2) VALUES ('value1', 'value2');
+    ALTER
+    MODIFY
+
+    DDL:
+    ---
+    CREATE DATABASE DBNAME;-> TO CREATE THE DATABASE 
+    SHOW DATABASES; -> SHOW EVERY DB 
+    USE DBNAME; -> SELECT A DATABASE TO WORK IN THAT.
+    DESC table_name; -> to view the table descripion.
+    DROP db / TABLE table_name; -> delete the whole db or the table from the db.
+    TRUNCATE ; -> TO delete all the datas in the table.
+ 
+    TCL
+    DCL
+    DQL
+ 
+STRING:
+------
+    CHAR
+    VARCHAR
+    TINY
+    LONG
+    LONGTEXT
+    BINARY
+    LONG BINARY
+ 
+NUMERIC:
+-------
+    TINYINT
+    INY
+    DECIMAL
+ 
+IF FILE SIZE IS MORE CONVERT IT INTO LONGTEXT AND STORE
+ 
+BLOB- Binary Long Object
+
+Started creating the DataBase ECommerce using MySQL
+---------------------------------------------------
+Created tables,
+    1. Cart
+    2. Category
+    3. Order Detail 
+    4. Orders 
+    5. Product 
+    6. Role 
+    7. Status 
+    8. User
+
+Created the Primary and Foreign key wherever required.
