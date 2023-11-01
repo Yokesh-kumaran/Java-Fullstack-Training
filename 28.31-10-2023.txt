@@ -1,0 +1,37 @@
+Java 8
+~~~~~~
+
+1. Consumer
+   --------
+  * Consumer Interface
+      Takes one argument and return void
+  * Bi-Consumer Interface
+      Takes two arguments and return void
+
+2. Function Interface
+   ------------------
+  * Function Interface
+      <input, return type>
+  * Bi-Function Interface
+      <input, input, output>
+
+3. Comparator Lambda
+   -----------------
+  * Which takes two inputs and returns true or false
+
+4. Predicate
+   ---------
+  * Predicate
+       Gets only one input and returns true or false
+
+  * Bi Predicate
+       Takes two arguments and returns true or false
+
+5. Stream
+   ------
+    Sequence of data
+    Can be performed either sequentially or parallel
+    Does not support indexed access
+    Designed for lambdas
+    Collection or arrays provides data to stream
+    Streams does not change the original data
