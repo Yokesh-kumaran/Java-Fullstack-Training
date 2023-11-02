@@ -1,0 +1,57 @@
+MySQL ECommerce
+~~~~~~~~~~~~~~~
+
+1. Register Customer
+   -----------------
+   Register new customer using (INSERT).
+
+2. Get Login Customer
+   ------------------
+   Getting login users using (SELECT) where deleteFlag = 0(Available users).
+
+3. Show all categories
+   -------------------
+   Inserted categories and viewed using (SELECT).
+
+4. Show products of particular Category
+   ------------------------------------
+   Inserted product with primary key of category id and viewed using (SELECT) with category id.
+
+4. Show all products
+   -----------------
+   Viewed all products from product table using (SELECT).
+
+5. Add to Cart
+   -----------
+   Adding the product to cart with userid, productid using (INSERT).
+
+6. Show Cart
+   ---------
+   Viewing the cart where the cart table contains ordered to be default false.
+
+7. Inserting Order detail
+   ----------------------
+   After checking out the datum will be entered in the order detail table and in cart, isordered will be set as True
+
+8. Inserting in Orders
+   -------------------
+   Finally the primary key of order detail will be set to the orders table with status id of primary key from 
+   status table to orders table.
+
+SERVLET - Will write HTML code inside Java.
+-------
+SPRING - Anotation based configuration
+Servlet - Xml based configuration
+
+Added Servlet version 2.5 dependency in pom.Xml
+In web.Xml
+----------
+1. Servlet
+   * Servlet name
+   * Servlet class
+
+2. Servlet mapping
+   * Servlet name
+   * Url pattern
+
+Session Tracking, Cookie Tracking.
