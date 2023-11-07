@@ -1,0 +1,76 @@
+Springboot
+==========
+Version - 2.7.17
+
+Tightly coupled - For example, In application(main class) which depends on another class(impl) where the 
+                  implementation class takes the control which has to be run.
+
+Loosely coupled - By created interface we can decide in the main application which method has to be run.
+
+Inversion of Control
+--------------------
+
+Dependency Injection
+--------------------
+1. Constructor Injection
+2. Setter method
+
+Annotations
+-----------
+@component
+    For working of Autowired and for creating bean
+@Autowired
+    For dependency injection
+
+If both class have been created bean and both have @Component
+3 methods to overcome it...
+1. @Primary
+2. @Qualifier ("name")
+3. Autowiring by creating object(camelcase)
+
+CDI
+---
+1. @Named
+2. @Inject
+
+@SpringbootApplication
+----------------------
+1. @ComponentScan
+2. @Configuration
+
+@Scope
+------
+Single Ton Scope
+Prototype Scope
+
+Lifecycle of bean
+-----------------
+1. @PostConstruct
+    Run after constructor created 
+
+2. @PreDestroy
+    Used before termination
+
+AnnotationApplicationContext
+----------------------------
+
+@RestController @RequestBody @PathVariable
+------------------------------------------
+1. GetMapping
+2. PostMapping
+3. PutMapping
+4. DeleteMapping
+
+application.properties
+----------------------
+Database connection will be done here
+
+JdbcTemplate
+------------
+Database details will be in this
+
+data.sql
+--------
+We will write the query here for database
+
+Spring started web - Which starts the application in port without tomcat.
