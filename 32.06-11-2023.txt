@@ -44,4 +44,4 @@ To provide a view with usable data, we simply add this data to its Model object.
                 When configuring Spring MVC, you need to specify the mappings between the requests and handler methods.
  
     we can set a class object to form using model, and get the values as specified in the class.
-    and store it in the database.
+    and store it in the database. 
