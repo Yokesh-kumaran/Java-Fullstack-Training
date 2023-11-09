@@ -1,0 +1,32 @@
+Springboot
+==========
+ While creating the values to the constructor, we have to create the empty constructor or else it will show the error.
+
+Task 
+~~~~
+    *Completed the Login and Register web application using Spring MVC, JSP and Servlet.
+ 
+ 
+Github Link 
+~~~~~~~~~~~
+Spring MVC -> https://github.com/Yokesh-kumaran/Spring_MVC_Login_Register
+ 
+ 
+Rest Api Concepts 
+~~~~~~~~~~~~~~~~~
+    *Creating Rest API using Spring Boot.
+    *HttpRequests 
+        -> @GetMapping
+        -> @PutMapping 
+        -> @PostMapping 
+        -> @DeleteMapping 
+    *JdbcTemplate
+ 
+ 
+Task 
+~~~~
+    *To create a rest API for todo application using Springboot for the following HttpRequests.
+        - GET 
+        - POST 
+        - PUT 
+        - DELETE
