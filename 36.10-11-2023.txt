@@ -14,7 +14,7 @@ Todo Rest API - https://github.com/Yokesh-kumaran/springboot-usertodo
  
 JPA Security concepts 
 ---------------------
-    -> Security Dependencies 
+    -> Security Dependencies  
     -> Optional<>
     -> Derived Queries 
     -> Data Loader for loading data
