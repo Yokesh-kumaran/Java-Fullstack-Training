@@ -1,0 +1,62 @@
+Springboot E-Shopping
+=====================
+
+Created project Architecture,
+Controller
+~~~~~~~~~~
+    Admin
+    -----
+        - AdminCategoryController
+        - AdminOrderController
+        - AdminRoomController
+        - AdminUserController
+
+    Staff
+    -----
+        - StaffOrderController
+        - StaffRoomController
+        - StaffUserController
+
+    User
+    ----
+        - AuthController
+        - CategoryController 
+        - OrderController 
+        - RoomController 
+
+Dto 
+~~~
+    - AuthDto 
+    - CategoryDto 
+    - OrderDto 
+    - RoomDto 
+
+Repository
+~~~~~~~~~~
+    - AmenityRepository
+    - CategoryRepository
+    - OrderRepository
+    - OrderRepository
+    - RoomRepository
+    - UserRepository
+
+Request
+~~~~~~~
+    - CategoryRequest
+    - LoginRequest
+    - OrderRequest
+    - RegisterRequest
+    - RoomRequest
+
+Response
+~~~~~~~~
+    - AuthResponse
+    - CategoryResponse
+    - OrderResponse
+
+Service
+~~~~~~~
+    - CategoryService
+    - OrderService
+    - RoomService
+    - UserService
