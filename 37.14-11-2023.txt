@@ -1,0 +1,15 @@
+Springboot E-Shopping
+=====================
+
+Task Done:
+    - created all the respective models for the project.
+    => Models:
+        - AppUSer
+        - Amenity
+        - Category
+        - Order
+        - Role
+        - Room
+
+    => Mapping:
+    - then mapped all  the respective models, ie. created foreign key
