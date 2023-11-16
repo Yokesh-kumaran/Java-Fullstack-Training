@@ -1,0 +1,37 @@
+Springboot E-Shopping
+=====================
+
+Tested all the API in postman
+-----------------------------
+Authentication
+~~~~~~~~~~~~~~
+    Register - http://localhost:8080/api/auth/register
+    Login - http://localhost:8080/api/auth/login
+
+User
+~~~~
+    See all orders - http://localhost:8080/api/category/all
+    See all rooms - http://localhost:8080/api/room/all
+    Place order - http://localhost:8080/api/order
+    Get user orders - http://localhost:8080/api/order/4
+
+Staff
+~~~~~
+    See all users - http://localhost:8080/api/staff/user/all
+    See all rooms - http://localhost:8080/api/staff/room/all
+    See all orders - http://localhost:8080/api/staff/order/all
+    See user orders - http://localhost:8080/api/staff/order/4
+
+Admin
+~~~~~
+    See All Categories - http://localhost:8080/api/admin/category/all
+    Add Category - http://localhost:8080/api/admin/category
+    Update category - http://localhost:8080/api/admin/category
+    Delete Category - http://localhost:8080/api/admin/category/6
+    Add room - http://localhost:8080/api/admin/room
+    Get All Rooms - http://localhost:8080/api/admin/room/all
+    Update room - http://localhost:8080/api/admin/room
+    Delete room - http://localhost:8080/api/admin/room/1
+    See all users - http://localhost:8080/api/admin/user/all
+    See all orders - http://localhost:8080/api/admin/order/all
+    See user orders - http://localhost:8080/api/admin/order/1
