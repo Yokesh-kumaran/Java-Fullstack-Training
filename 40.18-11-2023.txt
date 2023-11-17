@@ -1,0 +1,64 @@
+Springboot E-Shopping
+=====================
+
+Created angular project for front end.
+Designed UI.
+Started working with the UI.
+
+Init:
+----
+    * Initially Home page gets loaded.
+    * In home page, Welcome message with image.
+    * Sign in.
+    * Description of the hotel.
+    * Categories.
+    * Read more.
+    * Why choose us.
+
+ReadMore page:
+-------------
+    * Image.
+    * Latest news about the Hotel.
+    * Resquest and response passed.
+
+Category page:
+-------------
+    * rooms will be displayed for the particular category.
+    * Can filter using checkin, checkout dates.
+
+Login/Register page:
+-------------------
+    * Whether the user is already logged in he/she can directly book or else user has to login or register.
+
+Booking page:
+------------
+    Details to be passed for Booking,
+    * Checkin.
+    * Checkout.
+    * Guest Count.
+    * Payment.
+    * User details.
+
+Admin page:
+----------
+    * Add room.
+    * Add Category.
+    * See all rooms.
+    * See all Categories.
+    * See all users.
+    * See all orders.
+    * Update room.
+    * Update Category.
+    * Delete Category.
+    * Delete Room.
+    * Booking chart.
+    * Booking history.
+
+Staff page:
+----------
+    * See All Rooms.
+    * See All Category.
+    * See all users.
+    * See all orders.
+    * Booking chart.
+    * Booking history.
