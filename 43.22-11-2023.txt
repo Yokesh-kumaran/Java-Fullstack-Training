@@ -1,0 +1,11 @@
+Project: Hotel Reservation system
+=================================
+*Continued with the integration of back end and front end.
+        - Integrated the GET Methods in project
+            -> GET Rooms
+            -> GET Users  
+            -> GET Categories 
+            -> GET Orders
+            
+        - Integrated Post method 
+            -> POST Category 
