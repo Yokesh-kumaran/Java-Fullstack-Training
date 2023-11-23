@@ -1,0 +1,15 @@
+Project: Hotel Reservation system
+=================================
+   *Started with the front-end part of the project using angular.
+        - Components 
+            1. Login 
+            2. Register 
+            3. Room 
+            4. Orders
+            5. User Profile 
+            6. Navbar
+            7. Dashboard  
+ 
+        - Added Router to the components for the navigations.
+        - Included the required forms.
+        - Added custom and lottie animations
