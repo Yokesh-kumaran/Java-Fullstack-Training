@@ -1,0 +1,11 @@
+Project: Hotel Reservation system
+=================================
+*Continued with the integration of back end and front end.
+        - Integrated the Post Methods in project
+            -> Post Rooms
+            -> Post Orders
+            
+        - Integrated Delete method 
+            -> Delete Category 
+            -> Delete Rooms
+            -> Delete Orders 
