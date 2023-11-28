@@ -1,0 +1,16 @@
+Project: Hotel Reservation System
+------------------------------
+*Continued with the integration of back end and front end.
+        - Integrated the POST,PUT and DELETE methods in both admin and user side
+             
+            User side:
+            ----------- 
+            ->POST Orders
+
+            Admin side:
+            -----------
+            -> Worked with charts 
+
+
+        - Continued with the UI part for some corrections 
+        - File upload
