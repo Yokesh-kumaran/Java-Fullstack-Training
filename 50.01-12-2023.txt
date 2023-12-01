@@ -1,8 +1,30 @@
-Struct
-======
-
-Custom Validation
-=================
-
-Lazy Loading
-============
+Struts:
+=======
+Struts is used to create a web applications based on servlet and JSP. 
+Struts depend on the MVC (Model View Controller) framework. 
+Struts application is a genuine web application. Struts are thoroughly 
+useful in building J2EE (Java 2 Platform, Enterprise Edition) applications because struts takes advantage of J2EE design patterns. Struts follows these J2EE design patterns including MVC.
+ 
+In struts, the composite view manages the layout of its sub-views and 
+can implement a template, making persistent look and feel easier to achieve 
+and customize across the entire application. A composite view is made up by using 
+other reusable sub views such that a small change happens in a sub-view is automatically 
+updated in every composite view.
+ 
+Struts consists of a set of own custom tag libraries. Struts are based on
+MVC framework which is pattern oriented and includes JSP custom tag libraries. 
+Struts also supports utility classes.
+ 
+ 
+Lazy Loading:
+=============
+Lazy loading helps to keep the bundle size small, which helps reduce load times. 
+We must use the class decorator to create an Angular module @NgModule, and 
+the decorator uses a metadata object that defines the module.
+import: Components of this module are used with Array with other modules.
+ 
+ 
+Custom Validation:
+==================
+it is used to write a method to validate a particular field or we can apply for 
+any number of input
