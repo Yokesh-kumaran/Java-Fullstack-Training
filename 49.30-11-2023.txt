@@ -1,0 +1,20 @@
+Project - Hotel Reservation System
+==================================
+
+Worked with the frontend(ANGULAR) to make the UI more pretty..
+--------------------------------------------------------------
+-> Added extra Padding
+-> Added extra Margin
+-> Removed extra Padding
+-> Removed extra Margin
+-> Color Correction
+-> Font size correction
+-> Added some lotties
+
+Faced issue while working with Date
+-----------------------------------
+Got input from front end as string.
+While formatting it in backend, SimpleDateFormatter has formatted in IST format.
+So used DateTimeFormatter which formatted correctly as my requirement.
+
+Recording has been done.
