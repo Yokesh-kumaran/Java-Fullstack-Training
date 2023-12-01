@@ -1,0 +1,20 @@
+Project - Hotel Reservation System
+==================================
+Worked with the styles in both admin and user side to make the UI pretty.
+
+Added lotties to the application
+--------------------------------
+-> load.json
+-> booked.json
+-> gold.json
+-> noorders.json
+-> ordered.json
+-> premium.json
+-> registered.json
+-> silver.json
+
+Issue while working with navbar
+-------------------------------
+I have separate navbars for user home and other pages.
+For home page added the separate navbar.
+For other pages created the navbar component and called it wherever required.
